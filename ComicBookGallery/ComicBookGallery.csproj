@@ -8,4 +8,9 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="View\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
 </Project>
